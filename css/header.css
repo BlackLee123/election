@@ -1,0 +1,36 @@
+body {
+	font-size: 10pt;
+	font-family: Verdana;
+}
+
+a {
+	text-decoration: none;
+	color: #000066;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+table {
+	width: 100%;
+	border: none;
+}
+
+.HeaderFooterBackground {
+	margin: 0px;
+	
+	/*height: 30%;*/
+}
+
+.HeaderFooterBackground2 {
+	background-color: #ffff33;
+	color: black;
+	height: 12pt;
+	text-align: right;
+	width: 100%;
+}
+
+img {
+	border: none;
+}

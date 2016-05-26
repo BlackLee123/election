@@ -1,0 +1,68 @@
+body {
+    font-family: Arial,Helvetica,sans-serif;
+    font-size: 12pt;
+    text-align: center;
+}
+.wrapper {
+    margin: 0 auto;
+}
+p {
+    text-align: center;
+}
+table {
+    margin: 0 auto;
+}
+.title {
+    font-size: 14pt;
+    text-align: center;
+}
+td {
+    font-size: 9pt;
+    padding-left: 3pt;
+    padding-right: 3pt;
+    text-align: center;
+}
+th {
+    background-color: #666666;
+    color: #FFFFFF;
+    font-size: 10pt;
+    height: 14pt;
+    text-align: center;
+}
+.level {
+    vertical-align: top;
+}
+.barchart {
+    border: 1pt solid #FFFFFF;
+    padding: 0;
+}
+.barchartcontainer {
+    height: 100%;
+}
+.total {
+    background-color: #CCCCCC;
+    border-top: medium outset;
+    color: #000000;
+    font-size: 12pt;
+    font-weight: bold;
+    text-align: center;
+}
+.separator {
+    border-top: medium outset;
+    font-size: 10pt;
+    font-weight: bold;
+    text-align: left;
+}
+.description {
+    text-align: left;
+}
+.quantity {
+    text-align: right;
+}
+.date {
+    font-size: 10pt;
+    text-align: left;
+}
+.data {
+    font-size: 11pt;
+}

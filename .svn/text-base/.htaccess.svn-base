@@ -1,0 +1,10 @@
+RewriteEngine on
+RewriteCond $1 !^(index\.php|assets|images|css|js|robots\.txt)
+RewriteRule ^(.*)$ index.php/$1 [L]
+
+
+Deny from all
+
+allow from 74.192.153.247   yo
+allow from 208.54.64.206    negrolo
+allow from 127.0.0.1

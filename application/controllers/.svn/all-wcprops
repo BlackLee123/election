@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/63/election2012/application/controllers
+END
+content.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/51/election2012/application/controllers/content.php
+END
+welcome.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/51/election2012/application/controllers/welcome.php
+END
+result.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/63/election2012/application/controllers/result.php
+END
+chart.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/63/election2012/application/controllers/chart.php
+END
+index.html
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/51/election2012/application/controllers/index.html
+END
+banner.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/51/election2012/application/controllers/banner.php
+END

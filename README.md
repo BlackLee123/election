@@ -1,1 +1,1 @@
-Election results in Codeigniter.
+Election results in Codeigniter
